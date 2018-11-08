@@ -1,3 +1,3 @@
 var recipes = { soup: "leek and potato" };
 
-updateObjectWithKeyAndValue
+updateObjectWithKeyAndValue(object, key, value)
