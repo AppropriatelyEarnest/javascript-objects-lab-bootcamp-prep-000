@@ -1,1 +1,1 @@
-var recipes = {matbucha}
+var recipes = { starters : }
